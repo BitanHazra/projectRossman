@@ -64,7 +64,8 @@ Alternative Hypothesis (H1): Stores with longer promotion durations have signifi
 Alternative Hypothesis (H1): Stores with higher sales have significantly different competitor presence compared to stores with lower sales.
 3. Null Hypothesis (H0): There is no significant difference in sales between stores with a larger assortment of products and those with a smaller assortment.
 
-Alternative Hypothesis (H1): Stores with a larger assortment of products have significantly different sales compared to those with a smaller assortment.
+Alternative Hypothesis (H1): Stores with a larger assortment of pro![sales](https://github.com/BitanHazra/projectRossman/assets/46105628/c2f52e8b-45de-4489-b78a-de268a670d56)
+ducts have significantly different sales compared to those with a smaller assortment.
 # handling missing
 Promo2SinceWeek , Promo2SinceYear , PromoInterval:Missing values are filled with 0. We cannot fill Nan values with mean or standard deviation as it can effect our result. Promo directly affect our sales data so it better to fill it with 0.
 
@@ -78,3 +79,13 @@ StateHoliday, StoreType, Assortment, PromoInterval :This columns values are code
 Answer Here.
 
 Random Forest Regressor Random Forest Regressor model choose as the best model as its Mean Squared Error for Random Forest Regressor is 0.07081097203680194
+![reg](https://github.com/BitanHazra/projectRossman/assets/46105628/96bdeed9-c1db-45c4-ac7c-a1b19cf9bdba)
+![promo2](https://github.com/BitanHazra/projectRossman/assets/46105628/3651fa6b-4362-4b4a-9e32-7d6c0608f28e)
+![page1](https://github.com/BitanHazra/projectRossman/assets/46105628/b05bef7c-a7ea-4d1f-ac02-2929c991ceb8)
+![outliers](https://github.com/BitanHazra/projectRossman/assets/46105628/046fc6fc-484f-455d-8e0a-2acf9cdcb840)
+![heatmapmissing](https://github.com/BitanHazra/projectRossman/assets/46105628/b9776462-0181-4983-b015-d5a2120ae538)
+![dsfds](https://github.com/BitanHazra/projectRossman/assets/46105628/003cb22d-c889-4464-a733-a0f103634b4c)
+![describe](https://github.com/BitanHazra/projectRossman/assets/46105628/f6153612-e3e1-4684-b072-95782cbf2c75)
+![datadesc](https://github.com/BitanHazra/projectRossman/assets/46105628/fd94d15c-f701-4329-9d07-59447cbd44c7)
+![avgsalespromo](https://github.com/BitanHazra/projectRossman/assets/46105628/c4ad0082-4104-4bb1-b1f8-357efee655e2)
+![avgsales](https://github.com/BitanHazra/projectRossman/assets/46105628/983cff3a-a860-4a16-b6d4-cded274bcc70)
